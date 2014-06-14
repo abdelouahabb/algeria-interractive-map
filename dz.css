@@ -1,0 +1,8 @@
+path {
+color: red;
+transition: all 1s;
+}
+path:hover {
+fill: black;
+stroke: white;
+}
