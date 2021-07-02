@@ -1,10 +1,6 @@
-algeria-interractive-map
+- algeria-interractive-map
 ========================
-
-
-
-simple algerian map in svg
-version 0.0.0.0.0.0.0.1 alpha ;)
+version 1.0
 source: http://commons.wikimedia.org/wiki/File:Algeria_location_map.svg
 
 
