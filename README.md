@@ -1,9 +1,7 @@
-- algeria-interractive-map
-========================
-version 1.0
-source: http://commons.wikimedia.org/wiki/File:Algeria_location_map.svg
 
+# A simple SVG interactive ALGERIA map 
+[Live Demo](https://codepen.io/abdelghanymh/full/wvdabmK)
+[Svg Only!](https://gist.github.com/abdelghanyMh/45803150edfd5c5a52bd5e253e70ed43)
 
-
-
-رسوميات متجهية متغيرة الحجم لخريطة الجزائر
+> please note this map is not that latest version (1983-2019)
+[latest version(2019-present)](https://upload.wikimedia.org/wikipedia/commons/9/9b/Algeria_location_map.svg)
